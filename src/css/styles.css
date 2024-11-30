@@ -42,7 +42,6 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
-    overflow-x: hidden;
 }
 section{
     width: 100%;
@@ -58,7 +57,6 @@ section{
 #section-1{
     background-color: var(--secondary-color);
     overflow: hidden;
-    overflow-x: hidden;
 
     top: 0;
 
