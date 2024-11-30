@@ -2,7 +2,8 @@
 
 I’ve just built a Personal Portfolio Website to showcase my skills, projects, and professional journey! This responsive and visually appealing website is designed to leave a lasting impression on visitors while being easy to navigate. It’s a perfect representation of my front-end development skills using HTML, CSS, and JavaScript.
 
-🔗 <b>Source Code:</b> Explore the code here!
+🔗 <b>Source Code:</b> <a href="https://github.com/rizwanzia25/Portfolio-Website/">Explore the code here!</a><br>
+🔗  <b>Live Demo:</b> <a href="https://rizwanzia25.github.io/Portfolio-Website/">Visit Live</a>
 
 <b>Key Features: </b> <br>
 🎨 <b>Modern Design:</b> Clean, professional, and eye-catching layout. <br>
